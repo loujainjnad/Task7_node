@@ -27,7 +27,7 @@ A complete RESTful API for managing a movies store with genres, built with Expre
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/loujainjnad/Task7_node.git)
    cd Task7-loujainjnad
    ```
 
@@ -196,7 +196,7 @@ A comprehensive Postman collection is available for testing all endpoints. The c
 
 
 📎 Useful links
-
+postman collection:https://github.com/loujainjnad/Task7_node.git
 
 ## 👤 Author
 
