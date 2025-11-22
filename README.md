@@ -41,7 +41,7 @@ A complete RESTful API for managing a movies store with genres, built with Expre
    
    ```env
    PORT=5000
-   MONGODB_URI=
+   MONGODB_URI= process.env.MONGODB_URI
    ```
 
 4. **Start the server**
